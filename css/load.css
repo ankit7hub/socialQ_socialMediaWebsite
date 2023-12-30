@@ -1,0 +1,14 @@
+
+video.playing {
+    opacity: 1;
+    transition: opacity 3s ease;
+  }
+  
+  video {
+    
+    opacity: 0;
+    transition: opacity 3s ease;
+  }
+  body{
+    margin : 40vh 35vw;
+  }
